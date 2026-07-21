@@ -28,5 +28,5 @@ O jogo consiste em adivinhar um número secreto gerado aleatoriamente pelo siste
 
 ## 👩‍💻 Autora
 
-Desenvolvido por **Iza Coelho** durante os estudos na Alura.
+Desenvolvido por **Iza Coelho** durante o curso da Alura.
 ```
